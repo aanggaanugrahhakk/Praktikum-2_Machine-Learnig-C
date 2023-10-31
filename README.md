@@ -64,4 +64,4 @@ Nama: Anugrah AK.
 
 NIM: 202131037
 
-Kelas: E
+Kelas: C
